@@ -1,0 +1,8 @@
+- Компаний РД   companyid  yes    password 
+- Ангилал       cluster    yes    selectbox
+- Нэр           name       yes
+- Төлбөрийн нөхцөл  tulbur yes   select box
+
+- Тусгай зөвшөөрөл (Файл)  file
+- Улсын бүртгэлийн гэрчилгээ хуулбар (Файл) gerchilgefile
+- Захиралын иргэний үнэмлэх 2 тал (Файл) registeridfile
